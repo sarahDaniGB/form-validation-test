@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Andrew",
+      "location": "Brazil"
+    },
+    {
+      "id": 2,
+      "name": "Julio",
+      "location": "Canadá"
+    }
+  ],
+  "register": [
+    {
+      "email": "sarah.bortoloti.15@gmail.com",
+      "password": "as102030",
+      "id": 1
+    },
+    {
+      "email": "sarah.bortoloti.15@gmail.com",
+      "password": "as102030",
+      "id": 2
+    }
+  ]
+}
